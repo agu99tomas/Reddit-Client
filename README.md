@@ -1,2 +1,2 @@
 # Reddit Client
-![](screenshots/reddit-client.png)
+<img src="screenshots/reddit-client.png" height="400" />
